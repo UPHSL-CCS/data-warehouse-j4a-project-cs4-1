@@ -1,51 +1,53 @@
-# 💡 CS4 - Data Warehouse Optimization Project
+# CS4 Data Warehouse Optimization Project 🚀
 
-## 🎯 Objective
+## Team Members 👥
 
-Implement and analyze data warehouse optimization techniques using **Google BigQuery**. The project will focus on applying **partitioning**, **clustering**, and **materialized views** to a dataset to improve query performance. This entire process will be managed using **version-controlled collaboration** through GitHub Classroom.
-
-## 👥 Team Members
-
-| Name | Role |
+| Role | Name |
 | :--- | :--- |
-| **Angela Cabanes** | Team Member |
-| **Michaela Jornales** | Team Member |
-| **Kelvin Adam Aninang** | Team Member |
+| Member | **Angela Cabanes** |
+| Member | **Michaela Jornales** |
+| Member | **Kelvin Adam Aninang** |
 
----
+***
 
-## 🔧 Preferred Tools & Technologies
+## Project Overview & Objective
 
-| Category | Tool / Technology | Purpose |
+**Objective:**
+1. Implement and analyze data warehouse optimization techniques using **Google BigQuery**.
+2. Apply **partitioning**, **clustering**, and **materialized views** to improve query performance.
+3. Demonstrate version-controlled collaboration through **GitHub Classroom**.
+
+**Goal for Midterm:**
+* Identify group members (Completed).
+* Establish a repository in GitHub classroom: `https://classroom.github.com/a/akEVJq0q`.
+* Identify preferred data warehousing tool to assess feasibility of the project (Completed: Google BigQuery).
+
+***
+
+## Business Problem 🏥
+
+**Topic:** Hospital Patient Services Analysis
+
+A city hospital needs a data warehouse to analyze **patient visits**, **services**, and **doctor performance** for resource allocation and health trend analysis.
+
+***
+
+## Preferred Tools & Technologies 🛠️
+
+| Tool Category | Tool Name | Purpose in Project |
 | :--- | :--- | :--- |
-| **Data Source** | **CSV Files** | Initial source format for the raw data. |
-| **Data Cleaning** | **Python (Pandas)** | Scripting language and library for initial data cleaning, transformation, and preparation. |
-| **Data Warehousing** | **Google BigQuery** | Cloud-based data warehouse used for storing, managing, and optimizing the data (partitioning, clustering, views). |
-| **Visualization** | **Power BI** | Business intelligence tool for creating interactive dashboards and visualizing the optimized data. |
-| **Version Control** | **GitHub Classroom** | Platform for collaborative development, code sharing, and version control. |
+| **Data Cleaning/Preparation** | **Python (Pandas)** | Initial data loading, cleaning, transformation, and preparation before warehousing. |
+| **Data Warehousing/Optimization** | **Google BigQuery** | Core data warehouse for storage, running complex queries, and implementing optimization techniques (Partitioning, Clustering, Materialized Views). |
+| **Data Source/Storage** | **CSV Files** | Source format for raw or cleaned data to be loaded into BigQuery. |
+| **Data Visualization/Analysis** | **Power BI** | Creating interactive dashboards and reports to visualize the optimized data warehouse's performance and the hospital's key metrics. |
+| **Version Control** | **GitHub Classroom** | Collaborative code management, tracking changes, and ensuring project version control. |
 
----
+***
 
-## 📈 Business Problem
+## Deliverables & Milestones 🗓️
 
-**Barangay Services and Complaints Analytics**
-
-A barangay’s information system aims to analyze local transactions, resident requests, and complaint trends to improve governance, optimize service delivery, and enhance transparency.
-
----
-
-## 📅 Project Goals & Milestones
-
-### Midterm Goal
-
-* ✅ Identify group members (Completed: Listed above)
-* ✅ Establish a repository in GitHub classroom: `https://classroom.github.com/a/akEVJq0q`
-* ✅ Identify preferred data warehousing tool: **Google BigQuery**
-* ✅ Create a README file (Completed)
-
-### Deliverables (Per Member)
-
-* Submit the repository link in Moodle.
+### Individual/Group Deliverables
+* Submit the repository link in **Moodle**.
 * Present the group plan on **October 22, 2025**.
 
 ---
