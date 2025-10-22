@@ -4,9 +4,9 @@
 
 | Role | Name |
 | :--- | :--- |
-| Member | **Angela Cabanes** |
+| Visualization | **Angela Cabanes** |
 | Member | **Michaela Jornales** |
-| Member | **Kelvin Adam Aninang** |
+| Cleaning | **Kelvin Adam Aninang** |
 
 ***
 
