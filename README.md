@@ -13,14 +13,14 @@
 ## Project Overview & Objective
 
 **Objective:**
-1. Implement and analyze data warehouse optimization techniques using **Google BigQuery**.
+1. Implement and analyze data warehouse optimization techniques using **Postgresql**.
 2. Apply **partitioning**, **clustering**, and **materialized views** to improve query performance.
 3. Demonstrate version-controlled collaboration through **GitHub Classroom**.
 
 **Goal for Midterm:**
 * Identify group members (Completed).
 * Establish a repository in GitHub classroom: `https://classroom.github.com/a/akEVJq0q`.
-* Identify preferred data warehousing tool to assess feasibility of the project (Completed: Google BigQuery).
+* Identify preferred data warehousing tool to assess feasibility of the project (Completed: Postgresql).
 
 ***
 
