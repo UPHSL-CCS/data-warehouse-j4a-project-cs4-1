@@ -38,7 +38,7 @@ A city hospital needs a data warehouse to analyze **patient visits**, **services
 | :--- | :--- | :--- |
 | **Data Cleaning/Preparation** | **Python (Pandas)** | Initial data loading, cleaning, transformation, and preparation before warehousing. |
 | **Data Warehousing/Optimization** | **Google BigQuery** | Core data warehouse for storage, running complex queries, and implementing optimization techniques (Partitioning, Clustering, Materialized Views). |
-| **Data Source/Storage** | **MySql** | Source format for raw or cleaned data to be loaded into BigQuery. |
+| **Data Source/Storage** | **Kaggle/MySql** | Source format for raw or cleaned data to be loaded into BigQuery. |
 | **Data Visualization/Analysis** | **Power BI** | Creating interactive dashboards and reports to visualize the optimized data warehouse's performance and the hospital's key metrics. |
 | **Version Control** | **GitHub Classroom** | Collaborative code management, tracking changes, and ensuring project version control. |
 
