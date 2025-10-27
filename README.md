@@ -30,6 +30,14 @@
 
 A city hospital needs a data warehouse to analyze **patient visits**, **services**, and **doctor performance** for resource allocation and health trend analysis.
 
+Which departments handle the most patients monthly?
+
+
+What are the most common diagnoses or treatments?
+
+
+What’s the average service cost per department?
+
 ***
 
 ## Preferred Tools & Technologies 🛠️
