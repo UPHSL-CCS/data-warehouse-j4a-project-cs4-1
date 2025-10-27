@@ -46,7 +46,7 @@ What’s the average service cost per department?
 | :--- | :--- | :--- |
 | **Data Source** | **Kaggle/CSV** | Initial source of patient service data.. |
 | **Data Cleaning/Preparation/Staging** | **Python (Pandas,SQLAlchemy)** | Performs data cleaning, validation, and creates the Star Schema. |
-| **Data Warehousing/Optimization** | **PostgreSQL** | Stores the final Star Schema, ready for complex queries. Core data warehouse for storage, running complex queries, and implementing optimization techniques (Partitioning, Clustering, Materialized Views). |
+| **Database storage/Optimization** | **PostgreSQL** | Stores the final Star Schema, ready for complex queries. Core data warehouse for storage, running complex queries, and implementing optimization techniques (Partitioning, Clustering, Materialized Views). |
 | **Data Visualization/Analysis** | **Power BI** | Creating interactive dashboards and reports to visualize the optimized data warehouse's performance and the hospital's key metrics. |
 | **Version Control** | **GitHub Classroom** | Collaborative code management, tracking changes, and ensuring project version control. |
 
