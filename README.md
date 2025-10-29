@@ -36,7 +36,10 @@ Which departments handle the most patients monthly?
 What are the most common diagnoses or treatments?
 
 
-What’s the average service cost per department?
+Which doctors attend to the most patients?
+
+
+
 
 ***
 
