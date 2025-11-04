@@ -12,7 +12,7 @@
 
 **Objective:** Implement and analyze data warehouse optimization techniques using PostgreSQL. We will apply partitioning, clustering, and materialized views to measure and demonstrate query performance improvements in a structured Star Schema environment.
 
-**Team:** Angela Cabanes (Visualization), Michaela Jornales (Cleaning), Kelvin Adam Aninang (Member)
+**Team:** Angela Cabanes (Visualization, Data Cleaning), Michaela Jornales (Data Extraction), Kelvin Adam Aninang (Data Cleaning, Data Optimization)
 
 ---
 
