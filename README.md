@@ -28,7 +28,8 @@ A city hospital requires a robust data warehouse to analyze its operations, spec
 
 1. Which departments handle the most patients monthly?
 2. What are the most common diagnoses or treatments?
-3. Which doctors attend to the most patients?
+3. What's the average service cost per department
+4. Which doctors attend to the most patients?
 
 ### Technical Requirements
 
