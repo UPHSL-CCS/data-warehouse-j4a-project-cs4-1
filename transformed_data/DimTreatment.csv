@@ -1,0 +1,16 @@
+TreatmentKey,TreatmentType,Description,AvgCost
+1,Chemotherapy,Basic screening,2629.7077551020407
+2,MRI,Advanced protocol,3224.948888888889
+3,MRI,Standard procedure,3224.948888888889
+4,MRI,Basic screening,3224.948888888889
+5,ECG,Standard procedure,2532.2168421052634
+6,Chemotherapy,Standard procedure,2629.7077551020407
+7,Chemotherapy,Advanced protocol,2629.7077551020407
+8,Physiotherapy,Basic screening,2761.613888888889
+9,Physiotherapy,Standard procedure,2761.613888888889
+10,ECG,Basic screening,2532.2168421052634
+11,ECG,Advanced protocol,2532.2168421052634
+12,X-Ray,Basic screening,2698.87
+13,X-Ray,Advanced protocol,2698.87
+14,Physiotherapy,Advanced protocol,2761.613888888889
+15,X-Ray,Standard procedure,2698.87

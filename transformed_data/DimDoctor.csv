@@ -1,0 +1,11 @@
+DoctorKey,DoctorID,FullName,FirstName,LastName,Specialization,DepartmentID,PhoneNumber,YearsExperience,HospitalBranch,Email
+1,D001,David Taylor,David,Taylor,Dermatology,9,8322010158,17,Westside Clinic,dr.david.taylor@hospital.com
+2,D002,Jane Davis,Jane,Davis,Pediatrics,2,9004382050,24,Eastside Clinic,dr.jane.davis@hospital.com
+3,D003,Jane Smith,Jane,Smith,Pediatrics,2,8737740598,19,Eastside Clinic,dr.jane.smith@hospital.com
+4,D004,David Jones,David,Jones,Pediatrics,2,6594221991,28,Central Hospital,dr.david.jones@hospital.com
+5,D005,Sarah Taylor,Sarah,Taylor,Dermatology,9,9118538547,26,Central Hospital,dr.sarah.taylor@hospital.com
+6,D006,Alex Davis,Alex,Davis,Pediatrics,2,6570137231,23,Central Hospital,dr.alex.davis@hospital.com
+7,D007,Robert Davis,Robert,Davis,Oncology,8,8217493115,26,Westside Clinic,dr.robert.davis@hospital.com
+8,D008,Linda Brown,Linda,Brown,Dermatology,9,9069162601,5,Westside Clinic,dr.linda.brown@hospital.com
+9,D009,Sarah Smith,Sarah,Smith,Pediatrics,2,7387087517,26,Central Hospital,dr.sarah.smith@hospital.com
+10,D010,Linda Wilson,Linda,Wilson,Oncology,8,6176383634,21,Eastside Clinic,dr.linda.wilson@hospital.com
