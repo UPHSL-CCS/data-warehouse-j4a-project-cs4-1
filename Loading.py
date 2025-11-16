@@ -3,7 +3,7 @@ from sqlalchemy import create_engine
 
 db_url = f'postgresql+psycopg2://postgres:SlungusMan@localhost:5433/Hospital'
 csv_file = {
-    'DimDate': 'transformed_data/DimDate.csv',
+    'DimDate': 'transformed_data/DimDate.csv',  
     'DimDepartment': 'transformed_data/DimDepartment.csv',
     'DimDoctor': 'transformed_data/DimDoctor.csv',
     'DimPatient': 'transformed_data/DimPatient.csv',
