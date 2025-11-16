@@ -12,13 +12,13 @@ csv_file = {
 }
 
 # Define the order of loading to respect foreign key dependencies
-load_order = ['dim_date', 'dim_department', 'dim_doctor', 'dim_patient', 'dim_treatment', 'fact_visits']
+load_order = ['date', 'dim_department', 'dim_doctor', 'dim_patient', 'dim_treatment', 'fact_visits']
 
 # Database connection
 def load_data_to_db():
 
     # Create database engine
-    engine = create_engine(DB_URL)
+    engine = create_engine(db_url)
 
     for table_name in load_order:
         file_name = csv_file[table_name]
