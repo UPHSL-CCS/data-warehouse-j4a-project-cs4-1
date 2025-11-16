@@ -25,13 +25,13 @@ def load_data_to_db():
 
         df = pd.read_csv(file_name)
 
-    if table_name == 'DimDate':
-        df['FullDate'] = pd.to_datetime(df['FullDate'])
-    if table_name == 'DimPatient':
-        df['DateOfBirth'] = pd.to_datetime(df['DateOfBirth'])
-        df['RegistrationDate'] = pd.to_datetime(df['RegistrationDate'])
+        if table_name == 'DimDate':
+            df['FullDate'] = pd.to_datetime(df['FullDate'])
+        if table_name == 'DimPatient':
+            df['DateOfBirth'] = pd.to_datetime(df['DateOfBirth'])
+            df['RegistrationDate'] = pd.to_datetime(df['RegistrationDate'])
 
-    df.to_sql(table_name, engine, if_exists='replace', index=False, chunksize=1000)
+        df.to_sql(table_name, engine, if_exists='replace', index=False, chunksize=1000)
 
 if __name__ == '__main__':
     load_data_to_db()
