@@ -1,7 +1,7 @@
 import pandas as pd
 from sqlalchemy import create_engine
 
-db_url = f'postgresql+psycopg2://postgre:SlungusMan@localhost:5432/Hospital'
+db_url = f'postgresql+psycopg2://postgres:SlungusMan@localhost:5432/Hospital'
 csv_file = {
     'DimDate': 'transformed_data/DimDate.csv',
     'DimDepartment': 'transformed_data/DimDepartment.csv',
