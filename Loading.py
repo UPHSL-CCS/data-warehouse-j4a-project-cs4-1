@@ -12,7 +12,7 @@ csv_file = {
 }
 
 # Define the order of loading to respect foreign key dependencies
-load_order = ['date', 'dim_department', 'dim_doctor', 'dim_patient', 'dim_treatment', 'fact_visits']
+load_order = ['DimDate', 'DimDepartment', 'DimDoctor', 'DimPatient', 'DimTreatment', 'FactVisits']
 
 # Database connection
 def load_data_to_db():
